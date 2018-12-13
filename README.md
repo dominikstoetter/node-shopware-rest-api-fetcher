@@ -1,7 +1,12 @@
 # node-shopware-rest-api-fetcher
 
 ## usage
-create a .env in the directory, copy over the .env.template and the information needed
+create a .env in the directory, eg.:
+```
+user=username
+apiKey=verysecretapikey
+url=http://your.host/api/articles
+```
 
 ### installation
 ```
